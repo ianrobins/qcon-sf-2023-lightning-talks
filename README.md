@@ -27,5 +27,3 @@ Are you working on an interesting project? Have you had a major technical breakt
 - **Wednesday, Oct 4**
   - 11:30am-11:35am: TBD
   - 11:35am-11:40am: TBD
-
-  *The QCon team*
