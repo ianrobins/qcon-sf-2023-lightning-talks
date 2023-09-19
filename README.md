@@ -25,5 +25,5 @@ Are you working on an interesting project? Have you had a major technical breakt
   - 11:30am-11:35am: TBD
   - 11:35am-11:40am: TBD
 - **Wednesday, Oct 4**
-  - 11:30am-11:35am: TBD
+  - 11:30am-11:35am: [Developer Portal : Your Gateway to Success](https://docs.google.com/presentation/d/1yoD1B2V8aAd8RMclnFuLPKP_wuKvZ7G812Yk2yW7v7o/edit?usp=sharing), by [Satinath Mondal](https://www.linkedin.com/in/satinathmondal/)
   - 11:35am-11:40am: TBD
