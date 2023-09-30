@@ -19,8 +19,8 @@ Are you working on an interesting project? Have you had a major technical breakt
 
 ## Schedule
 - **Monday, Oct 2**
-  - 11:30am-11:35am: [Your lightning talk title with link to your slides](https://infoq.com), by [Your name w/ link to your LinkedIn profile](https://infoq.com)
-  - 11:35am-11:40am: TBD
+  - 11:30am-11:35am: [4 Tools & 2 Cases For GenAI](https://docs.google.com/presentation/d/1RLtXW7smGS4GTZYofa_iKGw_uei-natYNTY_gsrl-fA/edit?usp=sharing), by [Martin Dulák](https://www.linkedin.com/in/dulak/)
+  - 11:35am-11:40am: [Your lightning talk title with link to your slides](https://infoq.com), by [Your name w/ link to your LinkedIn profile](https://infoq.com)
 - **Tuesday, Oct 3**
   - 11:30am-11:35am: TBD
   - 11:35am-11:40am: TBD
