@@ -22,7 +22,7 @@ Are you working on an interesting project? Have you had a major technical breakt
   - 11:30am-11:35am: [4 Tools & 2 Cases For GenAI](https://docs.google.com/presentation/d/1RLtXW7smGS4GTZYofa_iKGw_uei-natYNTY_gsrl-fA/edit?usp=sharing), by [Martin Dulák](https://www.linkedin.com/in/dulak/)
   - 11:35am-11:40am: TBD
 - **Tuesday, Oct 3**
-  - 11:30am-11:35am: TBD
+  - 11:30am-11:35am: [Monitoring vs. Debugging](https://speakerdeck.com/prathamesh/monitoring-vs-debugging), by [Prathamesh Sonpatki](https://www.linkedin.com/in/cha1tanya/)
   - 11:35am-11:40am: TBD
 - **Wednesday, Oct 4**
   - 11:30am-11:35am: TBD
