@@ -13,7 +13,7 @@ Are you working on an interesting project? Have you had a major technical breakt
 - On your submission, make sure to include:
   - The title with a link to your slides (in 16:9 ratio), and 
   - Your name with a link to your LinkedIn profile.
-- This offer is **only available to QCon attendees**.
+- This offer is **only available to registered QCon attendees**.
 - Sales pitches will not be accepted.
 - Our team might reach out to help you with tips that will set you up for success!
 
